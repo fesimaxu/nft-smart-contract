@@ -22,6 +22,15 @@ async function main() {
 
     
   console.log("IGWEART NFT SAMPLE : ", result);
+
+//   opensea account url
+//  https://testnets.opensea.io/account
+
+// contract address on rinkeby testnet
+// 0x249af4ec8935a984a79a45fd5ea277bfa30136e1
+
+// Transaction hash 
+// 0x9f4b1c1155fa97dedb50ad024a24f3db132a5be6722b5a17ba00d03173fd920b
 }
 
 // We recommend this pattern to be able to use async/await everywhere
